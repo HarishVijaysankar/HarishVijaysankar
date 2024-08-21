@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**HarishVijaysankar/HarishVijaysankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, I'm Harish!
+▲Software Engineer sharing about my journey and learnings in tech<br/>
+
+Studied [Computer Science) (https://youtu.be/Dd 4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Otago, New Zealand<br/>
+
+Making videos about Computer Science, tech, and productivity on [YouTube] (https://www.youtube.com/c/MagdelineHuang)<br/>
+
+#learninginpublic in my Idigital garden)(https://magdelinehuang.com/)<br/>
+
+T Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+
+[![Magdeline's github stats](https://github-readme-stats.vercel.app/api?username=xsol05&count private=true&show icons=true&theme=radical (https://github.com/anuraghazra/github-readme-stats)
